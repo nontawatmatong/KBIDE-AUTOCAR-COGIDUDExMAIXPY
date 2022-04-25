@@ -8,3 +8,6 @@ https://github.com/sipeed/kflash_gui
 
 - ขั้นตอนการทำโดยละเอียดสามารถดูได้ที่ลิงค์นี้ (เฉพาะเดินอัตโนมัติ)
 https://www.youtube.com/watch?v=ZlzB1Bnp5cg
+
+
+โครงงาน วศบ คพ
